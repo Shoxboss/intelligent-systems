@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "start": "ts-node ./src/app.ts"
+  },
+  "devDependencies": {
+    "@types/jsonwebtoken": "^9.0.1",
+    "@types/node": "^18.13.0"
+  },
+  "dependencies": {
+    "jsonwebtoken": "^9.0.0",
+    "rcss": "^0.1.5",
+    "socket.io": "^4.6.1"
+  }
+}

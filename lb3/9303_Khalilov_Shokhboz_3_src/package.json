@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "ts-node ./src/app.ts"
+  },
+  "dependencies": {
+    "rcss": "^0.1.5"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.3"
+  }
+}

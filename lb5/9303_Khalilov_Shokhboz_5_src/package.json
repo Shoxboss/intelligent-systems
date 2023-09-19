@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "start": "ts-node ./src/app.ts",
+    "start:rma": "ts-node ./src/rma.ts",
+    "start:fcb": "ts-node ./src/fcb.ts"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "ramda": "^0.28.0",
+    "rcss": "^0.1.5"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.191",
+    "@types/node": "^18.15.3",
+    "@types/ramda": "^0.28.23"
+  }
+}
